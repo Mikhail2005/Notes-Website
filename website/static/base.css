@@ -1,0 +1,9 @@
+h1 {
+    margin-top:10px;
+    font: Georgia;
+    text-align: center
+}
+
+html {
+    background-image: url("Background.png");
+}
